@@ -60,3 +60,20 @@ Voici à quoi ressemble la réponse lorsque vous appelez la route `/api/wird/haf
     }
   ]
 }**
+
+
+🛠️ Technologies Utilisées
+JavaScript / Node.js : Environnement d'exécution.
+
+Express.js : Architecture et gestion des routes REST.
+
+CORS : Activé pour autoriser les requêtes cross-origin depuis n'importe quelle application Front-end (React, Flutter, Next.js, etc.).
+
+Hébergement : Render.
+
+Auteur
+El Hadji Fallou Bousso
+
+Étudiant en Développement d'Applications Réparties (DAR) à l'Université Cheikh Akhmadoul Khadim (UCAK), Touba.
+
+N'hésitez pas à utiliser cette API pour vos projets communautaires. Les contributions ou suggestions d'amélioration sont les bienvenues !
