@@ -37,7 +37,7 @@ Renvoie les trois variations du Wird (Kaamil, Khatam, Hafif).
 
 ---
 
-🛠️ Technologies Utilisées
+Technologies Utilisées
 JavaScript / Node.js : Environnement d'exécution.
 
 Express.js : Architecture et gestion des routes REST.
